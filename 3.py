@@ -12,6 +12,3 @@ def biggest_power_of_two(A):
         power *= 2
     return power
 print(biggest_power_of_two(17))
-
-def divide(a, b):
-    return a / b
